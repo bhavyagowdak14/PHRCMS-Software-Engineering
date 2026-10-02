@@ -18,7 +18,7 @@ Lab-1_Requirements_Engineering_UML/
 
 Lab-2_Agile_Backlog_Sprint_Simulation/
 ├── 01_Lab2_Jira_Reflection.docx
-└── 02_Lab2_Jira_Reflection.pdf   (if available)
+└── 02_Lab2_Jira_Reflection.pdf   
 ```
 
 ## Lab 1
@@ -39,8 +39,4 @@ The Lab 2 document covers:
 - Sprint boards and burndown charts
 - Sprint reflection and conclusion
 
-## Upload note
 
-If the course has provided a team repository, upload these two folders into that repository
-without changing the existing repository name. Keep Lab 1 and Lab 2 separated so the evaluator
-can easily identify each experiment.
