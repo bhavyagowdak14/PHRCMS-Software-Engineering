@@ -1,4 +1,5 @@
-# Software Engineering Lab Repository
+# PHRCMS-Software-Engineering
+ Repository
 
 ## Patient Health Record Consent Management System (PHRCMS)
 
@@ -33,7 +34,7 @@ The Software Engineering Labs progressively develop the system through:
 # Repository Structure
 
 ```text
-Software-Engineering-Lab/
+PHRCMS-Software-Engineering/
 │
 ├── Lab-1_Requirements_Engineering_UML/
 │   ├── 01_Requirements_Table.pdf
