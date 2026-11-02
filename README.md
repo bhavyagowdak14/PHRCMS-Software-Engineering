@@ -6,7 +6,7 @@ Repository
 **Student:** BHAVYA K  
 **SRN:** PES1UG24AM066  
 **Course:** Software Engineering Lab  
-**Department:** Computer Science and Engineering  
+**Department:** CSE(AIML) 
 
 ---
 
