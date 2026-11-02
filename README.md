@@ -1,5 +1,5 @@
 # PHRCMS-Software-Engineering
- Repository
+Repository
 
 ## Patient Health Record Consent Management System (PHRCMS)
 
@@ -28,6 +28,7 @@ The Software Engineering Labs progressively develop the system through:
 1. **Requirements Engineering & UML Use-Case Modelling**
 2. **Agile Backlog & Sprint Simulation**
 3. **Component Modelling & Architectural Pattern Selection**
+4. **Target Shooting Game**
 
 ---
 
@@ -50,5 +51,16 @@ PHRCMS-Software-Engineering/
 │   ├── 01_Lab3_Component_Diagram.png
 │   ├── 02_Lab3_Architecture_Justification.pdf
 │   └── README.md
+│
+├── Lab-4_Target_Shooting/
+│   └── target-shooting/
+│       ├── main.py
+│       ├── requirements.txt
+│       ├── README.md
+│       └── game/
+│           ├── game_engine.py
+│           ├── target.py
+│           ├── hit_detection.py
+│           └── renderer.py
 │
 └── README.md
