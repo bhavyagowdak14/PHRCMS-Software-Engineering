@@ -6,7 +6,7 @@ Repository
 **Student:** BHAVYA K  
 **SRN:** PES1UG24AM066  
 **Course:** Software Engineering Lab  
-**Department:** CSE(AIML) 
+**Department:** CSE (AIML)
 
 ---
 
@@ -23,16 +23,23 @@ The system enables patients to:
 - View a complete audit trail of consent and record-access activities.
 - Ensure secure access to sensitive patient health information.
 
-The Software Engineering Labs progressively develop the system through:
+---
 
-1. **Requirements Engineering & UML Use-Case Modelling**
-2. **Agile Backlog & Sprint Simulation**
-3. **Component Modelling & Architectural Pattern Selection**
-4. **Target Shooting Game**
+## Software Engineering Labs
+
+This repository contains the practical assignments and deliverables completed as part of the Software Engineering Lab course.
+
+| Lab | Title | Description |
+|---|---|---|
+| Lab 1 | Requirements Engineering & UML Use-Case Modelling | Requirements documentation, UML use-case diagrams and use-case flow modelling. |
+| Lab 2 | Agile Backlog & Sprint Simulation | Agile project planning, backlog management and sprint simulation using Jira. |
+| Lab 3 | Component Modelling & Architectural Pattern Selection | Component diagrams and architectural design justification. |
+| Lab 4 | Target Shooting Game | Development of a Python-based target shooting game using modular components. |
+| Lab 5 | Static Code Analysis | Python code analysis, issue identification and correction using Pylint, Bandit and Flake8. |
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 PHRCMS-Software-Engineering/
@@ -63,4 +70,34 @@ PHRCMS-Software-Engineering/
 │           ├── hit_detection.py
 │           └── renderer.py
 │
+├── Lab-5_Static_Code_Analysis/
+│   ├── gym_system.py
+│   ├── issues.md
+│   ├── pylint_before.txt
+│   ├── pylint_after.txt
+│   ├── bandit_before.txt
+│   ├── bandit_after.txt
+│   ├── flake8_before.txt
+│   └── flake8_after.txt
+│
 └── README.md
+```
+
+---
+
+## Technologies and Tools
+
+| Category | Technologies / Tools |
+|---|---|
+| Programming Languages | Python |
+| Requirements & Modelling | UML |
+| Agile Project Management | Jira |
+| Architecture Modelling | Component Diagrams |
+| Static Code Analysis | Pylint, Bandit, Flake8 |
+| Version Control | Git, GitHub |
+
+---
+
+## Repository Purpose
+
+This repository serves as a collection of Software Engineering Lab assignments, including source code, technical documentation, diagrams, reports, and practical implementations completed throughout the course.
